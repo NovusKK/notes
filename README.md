@@ -1,6 +1,6 @@
 # Advanced Types
 
-### Intersection Types
+## Intersection Types
 
 ```ts
 function extend<T, U>(first: T, second: U): T & U {
