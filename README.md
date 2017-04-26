@@ -1,0 +1,2 @@
+# notes
+Self-taught eductaion
